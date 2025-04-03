@@ -8,6 +8,13 @@ body{
 	background-color: #300;
 }
 
+.mainone {
+	width: 100%;
+	height: 100vh;
+	font-family: "Georgia", sans-serif;
+	background-color: #300;
+}
+
 .header {
 	background: #000;
 	height: 12%;
