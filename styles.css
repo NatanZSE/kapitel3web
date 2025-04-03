@@ -8,13 +8,6 @@ body{
 	background-color: #300;
 }
 
-.one {
-	width: 100%;
-	height: 100vh;
-	font-family: "Georgia", sans-serif;
-	background-color: #300;
-}
-
 .header {
 	background: #000;
 	height: 12%;
@@ -63,6 +56,7 @@ nav ul li a:hover {
 	font-size: 48px;
 	text-align: center;
 	color: #DDD;
+	background-color: #300;
 }	
 
 .content2 {
